@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" style="width:29px">, I'm [Mario Botero!](https://www.linkedin.com/in/mariobot/) 
+## Hey, I'm [Mario Botero!](https://www.linkedin.com/in/mariobot/) 
 
 <a href="https://www.linkedin.com/in/mariobot/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
