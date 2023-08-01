@@ -21,7 +21,7 @@
 ![Microsoft Azure](https://img.shields.io/badge/Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Microsoft SQL SErver](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server)
 
-| ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=mariobot&show_icons=true&hide_border=true)  | ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariobot&hide=java&layout=compact&langs_count=8&hide_border=true)  |
+| ![Aakash's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mariobot&show_icons=true&hide_border=true)  | ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariobot&hide=java&layout=compact&langs_count=8&hide_border=true)  |
 |---|---|
 
 <br />
