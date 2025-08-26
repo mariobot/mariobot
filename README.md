@@ -1,5 +1,8 @@
 ## Hey, I'm [Mario Botero!](https://www.linkedin.com/in/mariobot/) 
 
+<a href="https://www.twitch/mariobot/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"  />
+</a>
 <a href="https://www.linkedin.com/in/mariobot/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
