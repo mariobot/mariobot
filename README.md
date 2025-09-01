@@ -1,6 +1,6 @@
 ## Hey, I'm [Mario Botero!](https://www.linkedin.com/in/mariobot/) 
 
-<a href="https://www.twitch/mariobot/">
+<a href="https://www.twitch.tv/mariobot/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"  />
 </a>
 <a href="https://www.linkedin.com/in/mariobot/">
@@ -11,6 +11,9 @@
 </a>
 <a href="https://mariobot.wordpress.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+</a>
+<a href="https://www.facebook.com/mariobotpage">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />
 </a>
 
 <br />
